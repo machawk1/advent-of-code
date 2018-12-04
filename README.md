@@ -1,5 +1,5 @@
 Advent of Code
---------------
+==============
 I have a need to learn [Go](https://golang.org). I learn best by _doing_ instead of being directed, pair programming, etc. 
 
 I am using [Advent of Code](https://adventofcode.com) to help me learn the language through exploration.
