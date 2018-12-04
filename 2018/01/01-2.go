@@ -53,7 +53,7 @@ func iterateLinesUntilFound(fileName string, frequency int, m map[int]bool) (fou
 			return true, frequency
 		}
 
-		// Add an entry to indicate "we've seen this frequecy before"
+		// Add an entry to indicate "we've seen this frequency before"
 		// There is probably a better way/structure to do this -- learning experience
 		m[frequency] = true
 	}
